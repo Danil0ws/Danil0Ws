@@ -4,5 +4,5 @@ CTO Velooz.
 
 - 🔭 Atualmente, estou trabalhando em NodeJs
 - 🌱 Atualmente estou aprendendo Docker
-- 🤔 Estou procurando ajuda com .
-- 📫 Como chegar até mim: Danilo@velooz.com.b
+- 🤔 Estou procurando ajuda com Melhorar Meu Código
+- 📫 Como chegar até mim: danilo@velooz.com.br

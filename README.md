@@ -1,8 +1,8 @@
 ### Olá, Sou o Danil0Ws 👋
 
-CTO Velooz.
+CEO Buff & CTO Velooz
 
-- 🔭 Atualmente, estou trabalhando em NodeJs
-- 🌱 Atualmente estou aprendendo Docker
-- 🤔 Estou procurando ajuda com Melhorar Meu Código
-- 📫 Como chegar até mim: danilo@velooz.com.br
+- 🔭 Atualmente, estou trabalhando em NodeJs;
+- 🌱 Atualmente estou aprendendo Docker, TypeScript e Progress SQL;
+- 🤔 Estou procurando ajuda com melhorar meus códigos;
+- 📫 Como chegar até mim: danilo@velooz.com.br;

@@ -6,7 +6,7 @@
 
 Um desenvolvedor backend para web e gerente de estratégia de E-commerce.
 
-CEO Buff, CTO Velooz e Gerente de Estrategia de E-commerce
+Analista Senior Node.js e TypeScript in Concrete Solutions
 
 ## 🛠️ Habilidades
 ### Linguagem

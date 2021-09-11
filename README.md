@@ -16,6 +16,7 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![php](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![go](https://img.shields.io/badge/go-1f425f?style=for-the-badge&logo=go&logoColor=white)
+![flutter](https://img.shields.io/badge/flutter-2372a3?style=for-the-badge&logo=flutter&logoColor=white)
 
 
 ### Front-End
@@ -29,10 +30,11 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
 
 
-### Database
-![python](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### Banco de Dadis
+![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,6 +44,7 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![aws](https://img.shields.io/badge/aws-ec7211?style=for-the-badge&logo=aws&logoColor=white)
 
 ## 📈 Estatísticas
 <div align="center">

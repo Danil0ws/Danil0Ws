@@ -17,6 +17,7 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![php](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![go](https://img.shields.io/badge/go-1f425f?style=for-the-badge&logo=go&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-2372a3?style=for-the-badge&logo=flutter&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whitee)
 
 
 ### Front-End
@@ -31,7 +32,7 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![graphql](https://img.shields.io/badge/Graphql-e535ab?style=for-the-badge&logo=graphql&logoColor=white)
-
+![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whitee)
 
 ### Banco de Dadis
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -39,12 +40,19 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![dynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 ### DevOps
 ![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Software
+![kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
 
 ## 📈 Estatísticas
 <div align="center">
@@ -62,8 +70,8 @@ Analista Senior Node.js e TypeScript in Concrete Solutions
 
 
 
-<!-- - 🔭 Atualmente, estou trabalhando em NodeJs;
-- 🌱 Atualmente estou aprendendo Docker, TypeScript, Progress SQL e Pyhton;
+<!-- - 🔭 Atualmente, estou trabalhando com NodeJs com TypeScript;
+- 🌱 Atualmente estou aprendendo Kubernetes, OpenTelemetry, Kibana e Rust;
 - 🤔 Estou procurando ajudar a comunidade e pesquisar sobre a vida e universo;
-- 📫 Como chegar até mim: danilo@velooz.com.br;
+- 📫 Como chegar até mim: mydanilows@gmail.com;
  -->

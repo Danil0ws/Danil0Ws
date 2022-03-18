@@ -6,7 +6,7 @@
 
 Um desenvolvedor backend para web e gerente de estratégia de E-commerce.
 
-Analista Senior Node.js e TypeScript in Concrete Solutions
+Analista Senior Node.js e TypeScript in Accenture Brasil
 
 ## 🛠️ Habilidades
 ### Linguagem

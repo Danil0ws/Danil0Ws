@@ -6,7 +6,7 @@
 
 Um desenvolvedor backend para web e gerente de estratégia de E-commerce.
 
-Analista Senior Node.js e TypeScript in Accenture Brasil
+Analista Senior Node.js e TypeScript / Java e Spring Boot na Accenture Brasil
 
 ## 🛠️ Habilidades
 ### Linguagem
@@ -19,6 +19,7 @@ Analista Senior Node.js e TypeScript in Accenture Brasil
 ![go](https://img.shields.io/badge/go-1f425f?style=for-the-badge&logo=go&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-2372a3?style=for-the-badge&logo=flutter&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whitee)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Front-End
@@ -36,6 +37,7 @@ Analista Senior Node.js e TypeScript in Accenture Brasil
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Banco de Dadis
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,6 +61,7 @@ Analista Senior Node.js e TypeScript in Accenture Brasil
 ![kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Sonar](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 📈 Estatísticas

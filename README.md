@@ -4,7 +4,7 @@
 	
 ## 🚀 Sobre mim
 
-Um desenvolvedor backend para web e gerente de estratégia de E-commerce.
+Um desenvolvedor backend para web.
 
 Analista Senior Node.js e TypeScript / Java e Spring Boot na Accenture Brasil
 

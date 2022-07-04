@@ -10,8 +10,8 @@ Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento 
 
 ## Informação Pessoal
 
--  24 anos
--	Santo André, Brazil
+-  25 anos
+- São Paulo / SP, Brazil
 - (19) 9 7402-9518.
 - [Linkedin](https://www.linkedin.com/in/danil0ws/)
 - [Email](mailto:https://github.com/Danil0ws)
@@ -19,14 +19,15 @@ Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento 
 
 ## Perfil Profissional
 - Back-end.
-- 5 anos.
+- 6 anos.
 - [Github](https://www.github.com/danil0ws)
 
 ## Experiência Profissional 
 
 ### Application Development Senior Analyst
 Accenture Brasil
->Consultoria e desenvolvimento para serviços financeiro de uma fintech.
+>Desenvolvimento backend em NODE.JS utilizando TypeScript para serviços financeiro da plataforma de fatura e checkout para uma fintech brasileira.
+Desenvolvimento backend em Java utilizando Spring Boot para serviços financeiro da plataforma PIX para uma fintech brasileira.
 
 |Data de início |Data de término|
 |-------------------------------|-----------------------------|
@@ -84,6 +85,7 @@ Aumentei a vendas do site em 35%;
 ![go](https://img.shields.io/badge/go-1f425f?style=for-the-badge&logo=go&logoColor=white)
 ![flutter](https://img.shields.io/badge/flutter-2372a3?style=for-the-badge&logo=flutter&logoColor=white)
 ![rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=whitee)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
 ### Front-End
@@ -101,8 +103,9 @@ Aumentei a vendas do site em 35%;
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-### Banco de Dados
+### Banco de Dadis
 ![mongodb](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -124,12 +127,13 @@ Aumentei a vendas do site em 35%;
 ![kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Sonar](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Certificados
 
 ### AWS Certified Cloud Practitioner
-Amazon Web Services (AWS) - (11/2021 - 01/2024  )
+Amazon Web Services (AWS) - (11/2021 - 01/2024)
 
 ### Ruby on Rails 4
 Alura - (07/2021)
@@ -160,6 +164,9 @@ Alura - (08/2021)
 
 ### Amazon (AWS)
 Alura - (07/2021)
+
+### JAVA
+Alura - (05/2022)
 
 ## Observação
 - Estou no momento aprendo **RUST** para um solução para melhorar a performance do meus softwares.

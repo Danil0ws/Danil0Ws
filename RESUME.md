@@ -26,10 +26,11 @@ Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento 
 
 ### Application Development Senior Analyst
 Accenture Brasil
->Desenvolvimento backend em NODE.JS utilizando TypeScript para serviços financeiro da plataforma de fatura e checkout para uma fintech brasileira.
-Desenvolvimento backend em Java utilizando Spring Boot para serviços financeiro da plataforma PIX para uma fintech brasileira.
+>Desenvolvimento backend em NODE.JS utilizando TypeScript para serviços financeiros da plataforma de fatura e checkout para uma fintech brasileira.
+Desenvolvimento backend em Java utilizando Spring Boot para serviços financeiros da plataforma PIX para uma fintech brasileira.
+Desenvolvimento backend em  TypeScript utilizando Nest.JS para indicadores e relatórios para uma empresa de cosméticos brasileira.
 
-Competências: Amazon SQS · Express.js · PostgreSQL · Amazon DynamoDB · Node.js · TypeScript · JavaScript · Spring Framework · Spring Boot · Java · Kibana
+Competências: Amazon SQS · Express.js · PostgreSQL · Amazon DynamoDB · Node.js · TypeScript · JavaScript · Spring Framework · Spring Boot · Java · Kibana · Nest.JS · Firebase
 
 |Data de início |Data de término|
 |-------------------------------|-----------------------------|

@@ -19,7 +19,7 @@ Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento 
 
 ## Perfil Profissional
 - Back-end.
-- 6 anos.
+- 7 anos.
 - [Github](https://www.github.com/danil0ws)
 
 ## Experiência Profissional 

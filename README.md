@@ -4,9 +4,12 @@
 	
 ## 🚀 Sobre mim
 
-Um desenvolvedor backend para web.
+Sou um analista de sistemas sênior com mais de 5 anos de experiência em desenvolvimento backend, utilizando tecnologias como Java, Spring Boot, Node.js, TypeScript, AWS Lambda, Elasticsearch e Grafana. Tenho também certificações em Ruby on Rails e SEO, que me permitem criar aplicações web eficientes e otimizadas para os motores de busca.
 
-Analista Senior Node.js e TypeScript / Java e Spring Boot na Accenture Brasil
+Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e-commerce no Brasil, onde participo de projetos desafiadores e inovadores, como a plataforma de fatura e checkout para uma fintech brasileira e a plataforma PIX para outra fintech brasileira. Além disso, sou cofundador da Buff!, uma startup de gamificação e engajamento para empresas e consumidores. Meu objetivo é usar meu conhecimento e minha paixão por tecnologia para resolver problemas reais e gerar valor para os meus clientes e parceiros.
+
+
+Analista de sistemas sênior na Midway
 
 ## 🛠️ Habilidades
 ### Linguagem

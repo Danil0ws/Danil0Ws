@@ -9,8 +9,6 @@ Sou um analista de sistemas sênior com mais de 5 anos de experiência em desenv
 Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e-commerce no Brasil, onde participo de projetos desafiadores e inovadores, como a plataforma de fatura e checkout para uma fintech brasileira e a plataforma PIX para outra fintech brasileira. Além disso, sou cofundador da Buff!, uma startup de gamificação e engajamento para empresas e consumidores. Meu objetivo é usar meu conhecimento e minha paixão por tecnologia para resolver problemas reais e gerar valor para os meus clientes e parceiros.
 
 
-Analista de sistemas sênior na Midway
-
 ## 🛠️ Habilidades
 ### Linguagem
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

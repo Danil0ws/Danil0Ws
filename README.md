@@ -1,6 +1,5 @@
 ### Olá, Sou o Danil0Ws 👋
 
-
 	
 ## 🚀 Sobre mim
 
@@ -67,7 +66,7 @@ Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e
 
 ## 📈 Estatísticas
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Danil0ws&show_icons=true&hide_border=true" alt="Tapajyoti Bose's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Danil0ws&show_icons=true&hide_border=true" alt="Danil0ws GitHub Stats">
 </div>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Danil0ws" alt="visitors">

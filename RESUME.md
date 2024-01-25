@@ -1,6 +1,6 @@
 # Danilo Rodrigues
 
-Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento em  **tecnologia**, utilizo minha capacidade cognitivas para encontra  **soluções ** para resolver desafios, encontra soluções para alcançar objetivos para o bem das empresa onde passei e principalmente para pessoas do meu convivo.  
+Sou apaixonado por *desafios* e ajudar as pessoas utilizando meu conhecimento em *tecnologia*, utilizo minha capacidade cognitivas para encontra *soluções* para resolver desafios, encontra soluções para alcançar objetivos para o bem das empresa onde passei e principalmente para pessoas do meu convivo.  
   
 - O meu ser programador sempre esta disposto aprende novas tecnologias e se aprofundar em áreas --- desconhecidas, para agregar valor ao meu código;  
 - Estou sempre em construção;  
@@ -10,19 +10,28 @@ Sou apaixonado por **desafios** e ajudar as pessoas utilizando meu conhecimento 
 
 ## Informação Pessoal
 
--  25 anos
+- 26 anos
 - São Paulo / SP, Brazil
-- (19) 9 7402-9518.
 - [Linkedin](https://www.linkedin.com/in/danil0ws/)
 - [Email](mailto:https://github.com/Danil0ws)
 
 
 ## Perfil Profissional
 - Back-end.
-- 7 anos.
+- 8 anos.
 - [Github](https://www.github.com/danil0ws)
 
 ## Experiência Profissional 
+
+### Analista de sistemas sênior
+Midway
+>
+
+Competências: Amazon SQS · Express.js · PostgreSQL · Amazon DynamoDB · Node.js · TypeScript · JavaScript · Spring Framework · Spring Boot · Java · Kibana
+
+|Data de início |Data de término|
+|-------------------------------|-----------------------------|
+|06/2023       |Atual        |
 
 ### Application Development Senior Analyst
 Accenture Brasil
@@ -34,7 +43,7 @@ Competências: Amazon SQS · Express.js · PostgreSQL · Amazon DynamoDB · Node
 
 |Data de início |Data de término|
 |-------------------------------|-----------------------------|
-|07/2021       |Atual        |
+|07/2021       |06/2023        |
 
 ### Desenvolvedor de Software Full Stack
 Bc Serviços (E-Commerce)
@@ -172,4 +181,4 @@ Alura - (07/2021)
 Alura - (05/2022)
 
 ## Observação
-- Estou no momento aprendo **RUST** para um solução para melhorar a performance do meus softwares.
+- Estou no momento aprendo **Blockchain** para um solução para melhorar a performance do meus softwares.

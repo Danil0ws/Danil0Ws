@@ -63,7 +63,10 @@ I currently work at Midway, a leading company in financial solutions and e-comme
 
 ## 📈 Statistics
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Danil0ws&show_icons=true&hide_border=true" alt="Danil0ws GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Danil0ws&show_icons=true&hide_border=true&show_icons=true&theme=radical" alt="Danil0ws GitHub Stats">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0ws&hide_progress=true&hide_border=true&show_icons=true&theme=radical" alt="Danil0ws GitHub Stats">
 </div>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Danil0ws" alt="visitors">

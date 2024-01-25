@@ -64,11 +64,12 @@ Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e
 ![Sonar](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0ws&hide_progress=true)
-
 ## 📈 Estatísticas
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Danil0ws&show_icons=true&hide_border=true" alt="Danil0ws GitHub Stats">
+</div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danil0ws&hide_progress=true" alt="Danil0ws GitHub Stats">
 </div>
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Danil0ws" alt="visitors">
@@ -82,7 +83,8 @@ Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e
 
 
 
-<!-- - 🔭 Atualmente, estou trabalhando com NodeJs com TypeScript;
+<!-- 
+- 🔭 Atualmente, estou trabalhando com NodeJs com TypeScript;
 - 🌱 Atualmente estou aprendendo Kubernetes, OpenTelemetry, Kibana e Rust;
 - 🤔 Estou procurando ajudar a comunidade e pesquisar sobre a vida e universo;
 - 📫 Como chegar até mim: mydanilows@gmail.com;

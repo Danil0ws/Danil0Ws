@@ -1,11 +1,11 @@
-### Olá, Sou o Danil0Ws 👋
+### OI, Sou o Danilo 👋
 
 	
 ## 🚀 Sobre mim
 
-Sou um analista de sistemas sênior com mais de 5 anos de experiência em desenvolvimento backend, utilizando tecnologias como Java, Spring Boot, Node.js, TypeScript, AWS Lambda, Elasticsearch e Grafana. Tenho também certificações em Ruby on Rails e SEO, que me permitem criar aplicações web eficientes e otimizadas para os motores de busca.
+Sou Analista de Sistemas Sênior com mais de 7 anos de experiência em desenvolvimento backend, atuando com tecnologias como Java, Spring Boot, Node.js, TypeScript, AWS, Terraform, Kubernetes e Elastic. Também possuo experiência em liderança técnica, apoiando times na definição de arquiteturas, boas práticas e escalabilidade de sistemas.
 
-Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e-commerce no Brasil, onde participo de projetos desafiadores e inovadores, como a plataforma de fatura e checkout para uma fintech brasileira e a plataforma PIX para outra fintech brasileira. Além disso, sou cofundador da Buff!, uma startup de gamificação e engajamento para empresas e consumidores. Meu objetivo é usar meu conhecimento e minha paixão por tecnologia para resolver problemas reais e gerar valor para os meus clientes e parceiros.
+Atualmente, faço parte do time responsável pelo Open Finance, contribuindo para a implementação de soluções voltadas a pagamentos, transferências financeiras e compartilhamento de dados. Anteriormente, atuei no produto PIX, garantindo conformidade regulatória e integração segura para operações de pagamento.
 
 
 ## 🛠️ Habilidades
@@ -26,6 +26,8 @@ Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e
 
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![react]()
+
 
 ### Back-End
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -56,8 +58,10 @@ Atualmente, trabalho na Midway, uma empresa líder em soluções financeiras e e
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Terraform]()
+![Kubernert]()
 
-### Frameworks, Plataformas e Bibliotecas
+### Outros
 ![kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![azure devops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
